@@ -5,7 +5,7 @@ title: Privacy Policy – Blocker Counter
 # Privacy Policy
 
 **App:** Blocker Counter for Jira Cloud
-**Provider:** [jvalatkevicius](https://github.com/jvalatkevicius)
+**Provider:** JV Apps
 **Effective date:** 26 September 2026
 
 This policy explains what data the Blocker Counter app ("the app") accesses, why, and how it is
