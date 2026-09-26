@@ -1,0 +1,3 @@
+title: Blocker Counter
+description: A Jira Cloud app that counts how many unresolved issues each issue blocks.
+theme: jekyll-theme-primer
