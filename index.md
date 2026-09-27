@@ -8,4 +8,5 @@ Blocker Counter adds an **Issues blocked** field to Jira Cloud issues. It shows 
 issues each issue blocks, directly or through a chain of "blocks" links, so teams can see which
 work unblocks the most other work.
 
+- [Documentation](docs)
 - [Privacy Policy](privacy-policy)
